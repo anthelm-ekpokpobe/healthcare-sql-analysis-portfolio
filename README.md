@@ -103,6 +103,8 @@ Insured and uninsured patients showed relatively small differences in average wa
 
 ![Insurance Service Experience](screenshots/04-insurance-service-experience.png)
 
+[Watch the full Insurance Status & Healthcare Access analysis](https://youtu.be/47gnAeRC_S4)
+
 ## Portfolio Walkthrough
 
 Detailed video walkthroughs covering the complete SQL workflow will be added to this repository, including data cleaning, validation, database design, and business analysis.
