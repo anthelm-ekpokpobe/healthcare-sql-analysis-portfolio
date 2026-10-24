@@ -95,6 +95,8 @@ Hypertension recorded the highest proportion of severe cases at 18.4%, while mal
 
 ![Disease Severity Analysis](screenshots/03-disease-severity-analysis.png)
 
+[Watch the full Disease Surveillance & Severity analysis](https://youtu.be/iaH3Jj3ug7U)
+
 ### Insurance Status and Service Experience
 
 Insured and uninsured patients showed relatively small differences in average waiting time and satisfaction, with no strong evidence of a major service-access gap based on insurance status alone.
