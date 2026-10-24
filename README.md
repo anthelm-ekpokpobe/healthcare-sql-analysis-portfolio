@@ -153,6 +153,12 @@ Adds foreign-key constraints to the cleaned visits and disease-case tables so pa
 
 [Watch Foreign Key Constraints & Validation](https://youtu.be/-nWzyFk0NAI)
 
+### 8. Final Clean Dataset Validation
+
+Performs a final verification of the cleaned healthcare dataset before analysis. The walkthrough confirms the expected row counts across `patients_clean`, `facilitis_clean`, `disease_cases_clean`, and `visits_clean`, verifies that duplicate visit IDs were removed, and confirms that the remaining unknown insurance-status and satisfaction values are preserved as SQL `NULL`.
+
+[Watch Final Clean Dataset Validation](https://youtu.be/TxvvuPNpRmA)
+
 ## Project Status
 
 **Completed — SQL data cleaning, database validation, and healthcare analysis.**
