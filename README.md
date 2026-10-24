@@ -8,6 +8,14 @@ The objective was to transform raw healthcare data into a clean, structured data
 
 > **Disclaimer:** This project uses a completely synthetic dataset created solely for educational and portfolio purposes. No real patient, healthcare facility, employee, or confidential organisational data was used. This project is not affiliated with, sponsored by, or endorsed by any real organisation named Vitalink. Any similarity to real organisations, facilities, individuals, or operational data is coincidental.
 
+## Watch the Project Summary
+
+For a quick overview of the complete SQL project, watch the 3-minute summary video below:
+
+[Watch the Healthcare SQL Analysis Project Summary](https://youtu.be/aEnB5xBdeqc)
+
+The video summarises the full workflow, including data validation, cleaning, database design, and the key business findings.
+
 ## Tools Used
 
 - MySQL
