@@ -141,6 +141,12 @@ Validates the relationships between visits, disease cases, patients, and facilit
 
 [Watch Referential Integrity Checks](https://youtu.be/BrSHGkK3oO8)
 
+### 6. Clean Table Creation & Transformation
+
+Builds structured clean tables for visits, patients, facilities, and disease cases using explicitly defined data types and constraints. The transformation removes confirmed duplicate visits, standardises text fields with `TRIM()`, converts raw date strings into proper SQL `DATE` values where required, converts blank values to SQL `NULL`, and validates the resulting clean datasets before analysis.
+
+[Watch Clean Table Creation & Transformation](https://youtu.be/kPoI0WnIfFg)
+
 ## Project Status
 
 **Completed — SQL data cleaning, database validation, and healthcare analysis.**
