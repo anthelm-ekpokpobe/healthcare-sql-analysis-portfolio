@@ -1,0 +1,7 @@
+facility_id,facility_name,city,facility_type,bed_capacity
+1,Vitalink Central Hospital,Lagos,Hospital,180
+2,Vitalink Ikeja Clinic,Lagos,Clinic,55
+3,Vitalink Lekki Medical Centre,Lagos,Medical Centre,80
+4,Vitalink Abuja Hospital,Abuja,Hospital,150
+5,Vitalink Port Harcourt Clinic,Port Harcourt,Clinic,60
+6,Vitalink Benin Medical Centre,Benin City,Medical Centre,70

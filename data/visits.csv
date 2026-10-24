@@ -1,0 +1,725 @@
+visit_id,patient_id,facility_id,visit_date,visit_type,wait_time_minutes,consultation_minutes,outcome,satisfaction_score
+50001,1192,2,8/2/2026,Follow-up,45,30,Follow-up Required,5
+50002,1150,1,1/16/2026,Outpatient,60,27,Discharged,5
+50003,1064,3,4/7/2026,Emergency,30,33,Discharged,4
+50004,1109,6,4/22/2026,Outpatient,67,31,Follow-up Required,4
+50005,1028,1,7/13/2026,Outpatient,17,24,Discharged,4
+50006,1231,3,2/1/2026,Emergency,49,22,Discharged,5
+50007,1189,1,4/16/2026,Outpatient,65,25,Discharged,4
+50008,1072,1,2/7/2026,Outpatient,275,42,Discharged,2
+50009,1169,1,7/11/2026,Outpatient,90,19,Discharged,3
+50010,1170,4,6/3/2026,Outpatient,23,27,Discharged,5
+50011,1153,5,5/1/2026,Outpatient,8,30,Discharged,
+50012,1014,1,4/6/2026,Specialist,17,47,Referred,5
+50013,1220,2,2/7/2026,Outpatient,59,24,Admitted,4
+50014,1239,1,8/13/2026,Follow-up,54,40,Discharged,5
+50015,1244,1,6/7/2026,Specialist,45,43,Discharged,5
+50016,1246,3,3/19/2026,Outpatient,14,27,Discharged,3
+50017,1233,4,4/11/2026,Emergency,61,25,Admitted,3
+50018,1185,4,6/26/2026,Follow-up,11,24,Follow-up Required,5
+50019,1015,2,6/24/2026,Emergency,71,25,Discharged,1
+50020,1117,3,4/23/2026,Outpatient,113,38,Discharged,4
+50021,1062,1,3/15/2026,Outpatient,51,31,Discharged,4
+50022,1055,1,6/10/2026,Outpatient,57,31,Admitted,4
+50023,1208,6,6/9/2026,Emergency,30,14,Admitted,3
+50024,1204,5,5/26/2026,Specialist,3,16,Discharged,5
+50025,1131,6,1/18/2026,Specialist,27,54,Follow-up Required,3
+50026,1185,6,4/25/2026,Outpatient,15,26,Discharged,5
+50027,1033,4,5/30/2026,Follow-up,6,19,Follow-up Required,3
+50028,1056,6,8/19/2026,Outpatient,85,45,Admitted,4
+50029,1216,2,5/8/2026,Specialist,49,31,Discharged,5
+50030,1113,1,3/25/2026,Outpatient,51,35,Discharged,3
+50031,1137,1,5/16/2026,Specialist,34,26,Follow-up Required,3
+50032,1116,1,2/13/2026,Follow-up,38,24,Discharged,5
+50033,1051,1,1/23/2026,Outpatient,66,26,Follow-up Required,2
+50034,1207,2,6/14/2026,Outpatient,41,11,Discharged,3
+50035,1190,4,8/28/2026,Follow-up,55,27,Admitted,4
+50036,1171,5,7/25/2026,Outpatient,37,32,Discharged,5
+50037,1089,4,5/22/2026,Emergency,33,50,Discharged,4
+50038,1161,1,1/10/2026,Specialist,7,29,Discharged,4
+50039,1239,4,8/29/2026,Emergency,3,5,Discharged,5
+50040,1163,2,4/20/2026,Outpatient,35,27,Discharged,4
+50041,1124,1,3/12/2026,Outpatient,43,61,Follow-up Required,4
+50042,1068,2,8/5/2026,Outpatient,10,38,Discharged,4
+50043,1131,2,7/1/2026,Specialist,41,18,Discharged,3
+50044,1093,2,7/2/2026,Outpatient,43,35,Discharged,4
+50045,1153,5,3/9/2026,Outpatient,3,19,Discharged,4
+50046,1012,4,8/30/2026,Outpatient,19,12,Admitted,2
+50047,1048,4,4/21/2026,Specialist,52,24,Referred,4
+50048,1197,1,5/10/2026,Outpatient,52,29,Discharged,3
+50049,1096,5,7/2/2026,Follow-up,13,6,Follow-up Required,4
+50050,1109,4,6/10/2026,Follow-up,46,14,Follow-up Required,3
+50051,1136,1,2/11/2026,Follow-up,68,28,Referred,4
+50052,1110,4,3/15/2026,Specialist,61,23,Discharged,5
+50053,1190,3,3/29/2026,Follow-up,40,33,Discharged,4
+50054,1062,3,8/19/2026,Specialist,30,13,Discharged,3
+50055,1190,1,6/23/2026,Outpatient,26,37,Admitted,3
+50056,1053,3,3/31/2026,Follow-up,54,14,Follow-up Required,5
+50057,1093,1,6/28/2026,Emergency,47,48,Discharged,3
+50058,1147,1,6/29/2026,Emergency,58,7,Discharged,5
+50059,1222,1,4/6/2026,Specialist,45,15,Follow-up Required,4
+50060,1059,6,4/8/2026,Specialist,62,33,Admitted,3
+50061,1147,2,8/6/2026,Follow-up,44,48,Discharged,5
+50062,1017,2,5/17/2026,Emergency,62,32,Follow-up Required,4
+50063,1019,2,2/6/2026,Outpatient,64,35,Discharged,1
+50064,1192,6,6/24/2026,Outpatient,22,28,Discharged,5
+50065,1180,3,5/24/2026,Outpatient,3,16,Discharged,3
+50066,1095,6,5/4/2026,Outpatient,81,22,Follow-up Required,4
+50067,1156,2,6/26/2026,Outpatient,48,13,Referred,
+50068,1096,1,8/9/2026,Outpatient,3,13,Discharged,4
+50069,1070,3,3/22/2026,Follow-up,24,33,Discharged,5
+50070,1108,2,4/12/2026,Outpatient,61,15,Discharged,1
+50071,1078,5,2/16/2026,Specialist,35,32,Discharged,5
+50072,1204,5,6/7/2026,Emergency,29,12,Discharged,4
+50073,1103,3,4/8/2026,Outpatient,77,32,Discharged,5
+50074,1081,6,3/25/2026,Outpatient,16,22,Discharged,5
+50075,1135,3,6/19/2026,Outpatient,22,45,Discharged,5
+50076,1190,2,4/10/2026,Specialist,47,32,Discharged,4
+50077,1069,3,4/23/2026,Outpatient,52,43,Follow-up Required,4
+50078,1235,1,4/17/2026,Emergency,54,19,Discharged,4
+50079,1116,5,3/4/2026,Specialist,65,29,Follow-up Required,4
+50080,1166,1,1/31/2026,Specialist,47,16,Admitted,4
+50081,1240,2,7/21/2026,Outpatient,54,23,Discharged,5
+50082,1108,3,1/23/2026,Outpatient,36,25,Discharged,2
+50083,1050,1,3/20/2026,Outpatient,44,19,Discharged,5
+50084,1187,1,6/12/2026,Emergency ,45,13,Follow-up Required,3
+50085,1002,4,2/1/2026,Outpatient,47,11,Discharged,5
+50086,1115,1,6/9/2026,Emergency,61,5,Discharged,3
+50087,1245,3,6/28/2026,Specialist,56,15,Discharged,3
+50088,1104,2,6/11/2026,Emergency,43,36,Discharged,5
+50089,1172,1,3/16/2026,Emergency,22,9,Discharged,
+50090,1132,1,1/5/2026,Outpatient,44,12,Follow-up Required,5
+50091,1054,5,8/4/2026,Follow-up,41,49,Discharged,5
+50092,1080,6,3/21/2026,Emergency,47,20,Discharged,3
+50093,1131,1,7/15/2026,Follow-up,97,32,Follow-up Required,5
+50094,1027,6,2/18/2026,Specialist,29,36,Discharged,4
+50095,1104,4,2/9/2026,Outpatient,53,36,Follow-up Required,4
+50096,1104,4,7/9/2026,Outpatient,69,10,Discharged,4
+50097,1209,4,8/17/2026,Outpatient,44,25,Discharged,1
+50098,1031,4,7/29/2026,Outpatient,100,9,Admitted,4
+50099,1211,5,7/2/2026,Specialist,33,57,Discharged,5
+50100,1103,3,3/1/2026,Outpatient,50,9,Discharged,3
+50101,1163,3,8/10/2026,Follow-up,22,15,Admitted,5
+50102,1140,2,6/12/2026,Emergency,33,16,Follow-up Required,4
+50103,1075,1,2/11/2026,Outpatient,48,10,Follow-up Required,3
+50104,1233,4,2/1/2026,Outpatient,63,44,Discharged,4
+50105,1057,1,7/31/2026,Emergency,50,57,Discharged,3
+50106,1010,2,3/8/2026,Follow-up,73,22,Follow-up Required,2
+50107,1188,1,7/6/2026,Outpatient,40,12,Discharged,4
+50108,1156,1,2/3/2026,Outpatient,34,5,Discharged,2
+50109,1223,4,3/10/2026,Follow-up,110,25,Follow-up Required,2
+50110,1115,4,3/10/2026,Outpatient,52,24,Discharged,5
+50111,1005,2,3/10/2026,Specialist,24,20,Discharged,2
+50112,1006,1,6/13/2026,Outpatient,25,31,Discharged,5
+50113,1109,3,8/11/2026,Outpatient,18,33,Discharged,5
+50114,1063,2,8/10/2026,Emergency,65,32,Follow-up Required,3
+50115,1231,4,6/30/2026,Emergency,33,24,Admitted,4
+50116,1030,3,2/19/2026,Emergency,45,15,Discharged,2
+50117,1221,3,8/22/2026,Outpatient,40,36,Discharged,4
+50118,1055,3,5/12/2026,Specialist,60,28,Discharged,2
+50119,1030,6,5/13/2026,Emergency,21,39,Discharged,5
+50120,1069,4,6/20/2026,Outpatient,15,37,Discharged,3
+50121,1037,3,7/6/2026,Outpatient,48,11,Referred,4
+50122,1101,3,8/20/2026,Outpatient,57,11,Discharged,3
+50123,1083,1,5/22/2026,Emergency,50,19,Discharged,3
+50124,1133,6,5/29/2026,Outpatient,22,15,Referred,4
+50125,1135,2,7/1/2026,Emergency,59,37,Discharged,4
+50126,1001,1,3/3/2026,Outpatient,23,32,Referred,5
+50127,1032,6,3/16/2026,Specialist,29,41,Discharged,1
+50128,1041,4,6/1/2026,Outpatient,18,33,Discharged,1
+50129,1049,1,1/16/2026,Specialist,75,31,Referred,4
+50130,1024,1,3/19/2026,outpatient,58,42,Discharged,4
+50131,1079,1,6/24/2026,Outpatient,57,34,Discharged,5
+50132,1138,4,8/26/2026,Follow-up,73,29,Discharged,5
+50133,1078,1,5/7/2026,Emergency,112,46,Follow-up Required,5
+50134,1083,6,4/8/2026,Follow-up,3,29,Discharged,3
+50135,1118,6,4/18/2026,Outpatient,24,24,Discharged,4
+50136,1138,3,6/16/2026,Emergency,27,18,Follow-up Required,5
+50137,1083,4,5/13/2026,Follow-up,21,36,Follow-up Required,3
+50138,1056,2,1/6/2026,Emergency,15,43,Discharged,4
+50139,1103,1,5/12/2026,Outpatient,35,27,Discharged,3
+50140,1007,4,4/8/2026,Follow-up,12,44,Discharged,4
+50141,1124,1,6/20/2026,Follow-up,50,5,Discharged,5
+50142,1236,1,8/1/2026,Specialist,43,27,Discharged,3
+50143,1100,2,8/22/2026,Outpatient,54,28,Discharged,5
+50144,1028,1,5/29/2026,Outpatient,55,19,Discharged,3
+50145,1177,3,3/30/2026,Follow-up,57,57,Discharged,1
+50146,1032,4,4/18/2026,Emergency,33,27,Follow-up Required,3
+50147,1049,5,2/12/2026,Follow-up,95,23,Discharged,3
+50148,1037,4,8/16/2026,Outpatient,48,28,Referred,4
+50149,1221,5,7/25/2026,Outpatient,3,5,Admitted,2
+50150,1246,2,7/27/2026,Follow-up,17,19,Follow-up Required,4
+50151,1143,5,3/21/2026,Outpatient,3,40,Referred,5
+50152,1155,3,3/20/2026,Outpatient,42,20,Admitted,4
+50153,1162,1,7/28/2026,Emergency,39,18,Discharged,3
+50154,1153,6,5/13/2026,Follow-up,30,44,Follow-up Required,4
+50155,1137,2,6/21/2026,Specialist,92,44,Discharged,5
+50156,1247,1,4/30/2026,Outpatient,56,34,Follow-up Required,
+50157,1184,1,4/18/2026,Outpatient,60,23,Discharged,2
+50158,1023,2,6/3/2026,Specialist,19,25,Discharged,4
+50159,1098,2,7/17/2026,Outpatient,17,18,Discharged,4
+50160,1244,3,3/23/2026,Outpatient,43,16,Referred,4
+50161,1101,6,7/16/2026,Outpatient,46,15,Discharged,2
+50162,1052,2,3/1/2026,Emergency,3,21,Discharged,5
+50163,1218,3,4/8/2026,Specialist,37,16,Discharged,3
+50164,1156,2,8/10/2026,Follow-up,42,9,Discharged,3
+50165,1141,5,8/20/2026,Follow-up,37,31,Admitted,3
+50166,1106,1,8/13/2026,Outpatient,22,31,Follow-up Required,4
+50167,1032,1,3/18/2026,Outpatient,29,48,Discharged,4
+50168,1096,3,7/24/2026,Outpatient,38,20,Discharged,3
+50169,1110,4,8/16/2026,Outpatient,44,32,Discharged,4
+50170,1233,5,8/26/2026,Outpatient,57,32,Discharged,4
+50171,1077,4,1/6/2026,Outpatient,69,25,Follow-up Required,3
+50172,1038,5,7/1/2026,Outpatient,35,37,Follow-up Required,5
+50173,1107,2,8/31/2026,Emergency,31,37,Discharged,3
+50174,1250,1,7/5/2026,Follow-up,53,32,Follow-up Required,3
+50175,1121,1,2/26/2026,Outpatient,57,25,Discharged,5
+50176,1095,1,7/5/2026,Emergency,31,24,Follow-up Required,5
+50177,1167,2,1/26/2026,Follow-up,62,12,Discharged,4
+50178,1163,3,4/27/2026,Follow-up,66,18,Follow-up Required,5
+50179,1075,2,6/2/2026,Follow-up,74,21,Discharged,4
+50180,1242,3,4/21/2026,Outpatient,86,15,Referred,4
+50181,1149,3,6/20/2026,Follow-up,20,33,Discharged,5
+50182,1015,4,2/28/2026,Outpatient,42,42,Discharged,5
+50183,1102,4,5/28/2026,Outpatient,42,17,Discharged,3
+50184,1231,2,6/6/2026,Outpatient,40,31,Discharged,4
+50185,1099,2,6/4/2026,Outpatient,360,16,Discharged,4
+50186,1142,4,3/12/2026,Outpatient,5,24,Discharged,1
+50187,1154,4,3/16/2026,Outpatient,44,20,Follow-up Required,5
+50188,1177,2,3/4/2026,Follow-up,23,35,Discharged,4
+50189,1219,2,4/23/2026,Outpatient,44,20,Follow-up Required,4
+50190,1038,4,5/23/2026,Outpatient,22,40,Follow-up Required,4
+50191,1130,4,3/30/2026,Outpatient,15,25,Discharged,4
+50192,1134,1,4/10/2026,Outpatient,48,20,Discharged,3
+50193,1039,3,3/11/2026,Outpatient,46,13,Discharged,5
+50194,1169,6,2/23/2026,Outpatient,56,31,Discharged,4
+50195,1030,1,6/9/2026,Outpatient,97,39,Follow-up Required,4
+50196,1115,5,7/18/2026,Follow-up,49,31,Admitted,4
+50197,1083,1,3/12/2026,Specialist,54,55,Follow-up Required,3
+50198,1039,3,7/29/2026,Emergency,15,45,Discharged,2
+50199,1206,2,5/19/2026,Emergency,10,24,Follow-up Required,4
+50200,1062,1,2/10/2026,Follow-up,82,24,Follow-up Required,3
+50201,1064,6,3/30/2026,Specialist,19,34,Discharged,4
+50202,1214,3,1/2/2026,Emergency,16,18,Admitted,5
+50203,1220,6,1/10/2026,Specialist,41,42,Discharged,3
+50204,1009,2,3/23/2026,Specialist,40,32,Discharged,4
+50205,1070,5,4/21/2026,Follow-up,19,31,Discharged,4
+50206,1178,6,7/13/2026,Outpatient,34,36,Discharged,3
+50207,1195,3,2/2/2026,Outpatient,73,49,Admitted,5
+50208,1250,1,7/23/2026,Outpatient,22,30,Discharged,4
+50209,1139,4,2/26/2026,Outpatient,7,27,Discharged,2
+50210,1002,3,2/3/2026,Emergency,66,46,Discharged,3
+50211,1219,6,6/20/2026,Outpatient,54,40,Discharged,5
+50212,1041,3,7/8/2026,Emergency,26,24,Discharged,3
+50213,1031,1,5/27/2026,Emergency,3,28,Discharged,4
+50214,1169,1,1/29/2026,Follow-up,23,30,Follow-up Required,3
+50215,1151,4,1/29/2026,Outpatient,41,32,Discharged,3
+50216,1015,6,4/5/2026,Outpatient,71,12,Follow-up Required,5
+50217,1043,1,4/20/2026,Follow-up,16,9,Discharged,3
+50218,1148,4,8/31/2026,Follow-up,40,17,Follow-up Required,1
+50219,1064,6,3/11/2026,Specialist,59,16,Follow-up Required,
+50220,1172,1,2/16/2026,Follow-up,3,20,Discharged,5
+50221,1103,1,8/18/2026,Specialist,68,36,Discharged,4
+50222,1148,4,2/7/2026,Outpatient,12,26,Referred,3
+50223,1119,4,1/7/2026,Outpatient,50,30,Discharged,5
+50224,1092,1,4/13/2026,Outpatient,48,13,Follow-up Required,4
+50225,1086,5,4/8/2026,Emergency,69,22,Discharged,5
+50226,1175,3,5/31/2026,Specialist,56,35,Discharged,5
+50227,1129,6,8/2/2026,Outpatient,3,35,Discharged,4
+50228,1149,5,8/15/2026,Emergency,22,19,Admitted,4
+50229,1145,5,3/12/2026,Outpatient,45,30,Discharged,4
+50230,1052,3,8/27/2026,Outpatient,37,54,Follow-up Required,5
+50231,1229,1,6/3/2026,Outpatient,54,28,Follow-up Required,5
+50232,1141,3,1/17/2026,Outpatient,62,20,Discharged,5
+50233,1180,1,8/17/2026,Specialist,57,26,Discharged,4
+50234,1221,4,2/3/2026,Outpatient,37,29,Discharged,3
+50235,1232,1,5/24/2026,Emergency ,3,26,Discharged,4
+50236,1167,3,7/12/2026,Follow-up,31,28,Follow-up Required,4
+50237,1197,1,3/2/2026,Outpatient,52,11,Discharged,4
+50238,1118,2,3/7/2026,Outpatient,15,16,Discharged,5
+50239,1185,1,4/26/2026,Follow-up,58,26,Follow-up Required,4
+50240,1081,4,8/4/2026,Outpatient,65,26,Follow-up Required,1
+50241,1178,5,2/24/2026,Specialist,45,21,Discharged,4
+50242,1022,1,6/11/2026,Outpatient,3,26,Discharged,4
+50243,1229,5,4/20/2026,Follow-up,10,29,Discharged,5
+50244,1062,5,1/28/2026,Follow-up,240,39,Follow-up Required,4
+50245,1165,2,6/22/2026,Outpatient,28,27,Discharged,4
+50246,1003,4,7/22/2026,Outpatient,3,33,Discharged,4
+50247,1039,2,5/20/2026,Specialist,73,22,Discharged,4
+50248,1247,1,2/12/2026,Outpatient,42,35,Follow-up Required,2
+50249,1209,3,2/7/2026,Outpatient,70,33,Follow-up Required,5
+50250,1056,1,4/13/2026,Outpatient,49,38,Discharged,
+50251,1033,5,5/4/2026,Outpatient,53,37,Admitted,4
+50252,1204,6,5/15/2026,Follow-up,51,35,Admitted,4
+50253,1248,5,3/1/2026,Follow-up,59,27,Discharged,2
+50254,1043,3,5/2/2026,Outpatient,99,31,Follow-up Required,4
+50255,1166,3,3/13/2026,Follow-up,66,41,Discharged,4
+50256,1071,6,6/16/2026,Outpatient,3,20,Referred,5
+50257,1187,1,7/13/2026,Outpatient,53,20,Discharged,2
+50258,1105,1,6/8/2026,Emergency,71,30,Discharged,5
+50259,1032,3,1/1/2026,Specialist,72,33,Discharged,3
+50260,1082,2,8/30/2026,Outpatient,31,18,Discharged,4
+50261,1135,2,1/6/2026,Outpatient,71,27,Follow-up Required,4
+50262,1200,1,8/31/2026,Emergency,65,27,Discharged,3
+50263,1006,4,1/8/2026,Follow-up,106,5,Discharged,4
+50264,1240,1,5/6/2026,Outpatient,23,25,Discharged,5
+50265,1163,1,1/26/2026,Outpatient,29,26,Admitted,4
+50266,1219,1,1/24/2026,Follow-up,34,26,Follow-up Required,
+50267,1233,2,6/16/2026,Outpatient,30,45,Discharged,4
+50268,1039,5,6/26/2026,Outpatient,20,13,Discharged,3
+50269,1024,2,1/29/2026,Outpatient,3,18,Discharged,4
+50270,1195,4,8/26/2026,Outpatient,31,5,Admitted,
+50271,1047,4,3/19/2026,Outpatient,51,22,Follow-up Required,1
+50272,1037,2,3/19/2026,Follow-up,30,23,Follow-up Required,4
+50273,1118,5,3/14/2026,Emergency,90,22,Admitted,5
+50274,1229,4,4/23/2026,Follow-up,42,41,Discharged,5
+50275,1199,3,2/13/2026,Specialist,74,38,Follow-up Required,2
+50276,1130,1,4/14/2026,Outpatient,49,29,Discharged,3
+50277,1050,1,2/21/2026,Outpatient,63,24,Discharged,4
+50278,1085,6,1/13/2026,FOLLOW-UP,49,40,Discharged,3
+50279,1173,5,3/31/2026,Outpatient,76,28,Discharged,4
+50280,1040,6,6/13/2026,Follow-up,43,18,Referred,2
+50281,1132,6,7/5/2026,Follow-up,54,7,Discharged,2
+50282,1003,1,3/27/2026,Outpatient,51,23,Follow-up Required,4
+50283,1082,5,3/20/2026,Outpatient,35,37,Follow-up Required,3
+50284,1062,3,7/11/2026,Outpatient,52,55,Follow-up Required,5
+50285,1171,5,6/15/2026,Outpatient,98,29,Referred,2
+50286,1229,1,7/22/2026,Outpatient,35,19,Discharged,4
+50287,1037,2,8/9/2026,Outpatient,52,14,Discharged,4
+50288,1200,4,7/19/2026,Follow-up,73,35,Discharged,5
+50289,1164,5,8/16/2026,Specialist,71,7,Discharged,5
+50290,1243,4,4/12/2026,Follow-up,42,35,Admitted,4
+50291,1228,2,4/6/2026,Outpatient,3,38,Discharged,4
+50292,1026,2,3/20/2026,Outpatient,55,33,Discharged,3
+50293,1186,6,2/27/2026,Outpatient,3,25,Discharged,4
+50294,1149,3,7/1/2026,Outpatient,79,35,Discharged,2
+50295,1029,3,6/23/2026,Specialist,46,30,Follow-up Required,4
+50296,1065,3,7/14/2026,Outpatient,67,19,Discharged,3
+50297,1232,2,2/10/2026,Outpatient,19,50,Follow-up Required,5
+50298,1136,3,4/30/2026,Follow-up,3,24,Follow-up Required,4
+50299,1085,3,2/23/2026,Outpatient,49,37,Follow-up Required,4
+50300,1081,5,8/6/2026,Outpatient,41,5,Discharged,4
+50301,1210,6,3/6/2026,Outpatient,30,43,Follow-up Required,3
+50302,1071,6,2/4/2026,Emergency,44,46,Discharged,3
+50303,1040,3,5/19/2026,Follow-up,111,28,Discharged,5
+50304,1144,3,8/2/2026,Outpatient,63,35,Follow-up Required,5
+50305,1249,4,8/11/2026,Specialist,68,35,Follow-up Required,
+50306,1046,5,1/24/2026,Follow-up,63,20,Discharged,5
+50307,1064,3,3/21/2026,Follow-up,79,35,Admitted,4
+50308,1118,4,2/7/2026,Outpatient,37,18,Discharged,1
+50309,1050,4,3/16/2026,Outpatient,3,21,Follow-up Required,4
+50310,1163,4,5/10/2026,Follow-up,37,42,Referred,3
+50311,1064,4,3/10/2026,Outpatient,62,40,Discharged,3
+50312,1033,1,1/17/2026,Emergency,18,20,Follow-up Required,4
+50313,1066,3,5/4/2026,Follow-up,38,19,Follow-up Required,3
+50314,1233,4,1/13/2026,Outpatient,25,20,Follow-up Required,5
+50315,1234,1,2/25/2026,Follow-up,80,37,Follow-up Required,4
+50316,1127,5,1/1/2026,Specialist,61,16,Follow-up Required,5
+50317,1101,4,1/22/2026,Follow-up,58,32,Discharged,4
+50318,1205,1,4/17/2026,Outpatient,58,37,Follow-up Required,5
+50319,1049,5,7/26/2026,Follow-up,41,27,Discharged,4
+50320,1164,4,7/8/2026,Emergency,47,40,Referred,4
+50321,1171,4,1/25/2026,Follow-up,12,24,Discharged,4
+50322,1178,2,1/9/2026,Follow-up,3,25,Discharged,5
+50323,1055,5,3/24/2026,Follow-up,46,16,Admitted,3
+50324,1180,2,6/8/2026,Outpatient,50,40,Discharged,4
+50325,1153,3,7/1/2026,Outpatient,72,19,Discharged,5
+50326,1219,1,7/20/2026,Outpatient,81,32,Follow-up Required,4
+50327,1044,4,3/25/2026,Emergency,81,27,Discharged,5
+50328,1154,4,2/10/2026,Emergency,17,15,Discharged,4
+50329,1208,3,1/7/2026,Emergency,33,21,Discharged,3
+50330,1070,3,2/5/2026,Outpatient,54,45,Discharged,4
+50331,1186,5,1/16/2026,Follow-up,105,30,Discharged,4
+50332,1025,4,7/29/2026,Specialist,79,16,Discharged,1
+50333,1180,2,3/7/2026,Outpatient,70,32,Discharged,2
+50334,1152,6,7/20/2026,Follow-up,32,26,Discharged,3
+50335,1049,4,5/15/2026,Follow-up,20,69,Discharged,5
+50336,1017,6,5/11/2026,Emergency,62,31,Follow-up Required,5
+50337,1187,6,4/21/2026,Outpatient,14,23,Follow-up Required,4
+50338,1061,6,7/19/2026,Follow-up,36,45,Discharged,2
+50339,1125,4,1/11/2026,Specialist,39,6,Discharged,4
+50340,1016,4,1/23/2026,Follow-up,82,29,Admitted,5
+50341,1241,1,4/13/2026,Specialist,33,52,Follow-up Required,5
+50342,1138,3,4/6/2026,Specialist,3,27,Discharged,3
+50343,1233,5,5/13/2026,Outpatient,55,7,Discharged,3
+50344,1041,3,6/29/2026,Emergency,25,23,Discharged,5
+50345,1052,5,5/23/2026,outpatient,43,45,Follow-up Required,5
+50346,1153,1,3/4/2026,Specialist,40,33,Admitted,2
+50347,1152,2,3/21/2026,Outpatient,35,18,Admitted,5
+50348,1198,3,7/2/2026,Outpatient,62,20,Discharged,2
+50349,1233,3,2/18/2026,Follow-up,4,21,Discharged,2
+50350,1206,1,5/3/2026,Outpatient,29,32,Discharged,5
+50351,1036,1,5/11/2026,Follow-up,59,44,Discharged,4
+50352,1078,5,7/2/2026,Outpatient,27,41,Discharged,4
+50353,1229,3,6/23/2026,Specialist,3,33,Follow-up Required,5
+50354,1138,1,4/23/2026,Specialist,59,12,Discharged,5
+50355,1217,1,3/17/2026,Outpatient,70,12,Admitted,2
+50356,1141,3,3/31/2026,Follow-up,41,34,Discharged,4
+50357,1013,1,4/11/2026,Outpatient,3,12,Discharged,5
+50358,1119,4,2/23/2026,Emergency,60,25,Admitted,4
+50359,1207,5,6/1/2026,Emergency,3,32,Follow-up Required,5
+50360,1164,1,2/20/2026,Follow-up,50,14,Discharged,4
+50361,1034,4,6/7/2026,Outpatient,20,16,Follow-up Required,2
+50362,1053,1,7/2/2026,Outpatient,13,27,Discharged,3
+50363,1214,2,8/22/2026,Follow-up,31,34,Discharged,5
+50364,1245,6,1/29/2026,Emergency,37,41,Discharged,5
+50365,1189,3,7/4/2026,Emergency,26,35,Discharged,2
+50366,1025,6,1/21/2026,Outpatient,57,29,Follow-up Required,2
+50367,1155,1,3/23/2026,Outpatient,31,19,Discharged,5
+50368,1208,2,2/12/2026,Follow-up,67,15,Follow-up Required,2
+50369,1161,3,2/9/2026,Outpatient,49,22,Follow-up Required,2
+50370,1149,3,2/12/2026,Outpatient,25,33,Discharged,5
+50371,1117,6,1/11/2026,Specialist,20,32,Discharged,
+50372,1062,1,7/20/2026,Outpatient,3,5,Discharged,5
+50373,1071,5,1/15/2026,Follow-up,49,19,Follow-up Required,4
+50374,1187,5,4/7/2026,Outpatient,33,42,Follow-up Required,4
+50375,1018,3,6/19/2026,Follow-up,3,29,Follow-up Required,5
+50376,1022,2,8/29/2026,Follow-up,29,11,Discharged,3
+50377,1100,3,7/27/2026,Specialist,19,56,Discharged,3
+50378,1194,2,2/3/2026,Outpatient,81,28,Discharged,5
+50379,1165,5,8/29/2026,Emergency,3,33,Discharged,4
+50380,1148,3,6/8/2026,Follow-up,6,33,Follow-up Required,5
+50381,1134,6,2/13/2026,Outpatient,70,24,Discharged,3
+50382,1028,4,4/20/2026,Outpatient,76,19,Discharged,5
+50383,1083,3,8/12/2026,Outpatient,23,53,Discharged,4
+50384,1020,4,4/6/2026,Specialist,26,40,Discharged,4
+50385,1190,3,2/14/2026,Follow-up,57,38,Follow-up Required,5
+50386,1188,6,8/1/2026,Emergency,3,35,Discharged,4
+50387,1065,1,8/20/2026,Follow-up,3,16,Admitted,5
+50388,1074,6,8/26/2026,Emergency,35,43,Admitted,4
+50389,1080,5,8/21/2026,Outpatient,81,18,Admitted,5
+50390,1223,5,8/1/2026,Outpatient,31,31,Follow-up Required,5
+50391,1123,3,4/21/2026,Emergency,45,8,Follow-up Required,4
+50392,1191,5,2/16/2026,Outpatient,70,5,Follow-up Required,2
+50393,1113,2,5/30/2026,Specialist,95,32,Discharged,3
+50394,1175,5,2/23/2026,Follow-up,28,18,Discharged,5
+50395,1133,1,4/25/2026,Outpatient,42,5,Follow-up Required,5
+50396,1070,2,6/9/2026,Emergency,88,34,Discharged,5
+50397,1220,3,8/19/2026,Outpatient,4,53,Discharged,1
+50398,1178,2,3/12/2026,Specialist,68,45,Admitted,4
+50399,1193,2,3/3/2026,Specialist,17,25,Discharged,5
+50400,1238,5,6/28/2026,Specialist,45,28,Discharged,5
+50401,1063,1,1/2/2026,Outpatient,36,39,Follow-up Required,2
+50402,1023,4,5/18/2026,Outpatient,18,41,Discharged,4
+50403,1146,1,7/1/2026,Outpatient,17,24,Admitted,3
+50404,1082,5,5/14/2026,Outpatient,49,28,Discharged,4
+50405,1109,5,4/4/2026,Outpatient,67,32,Admitted,3
+50406,1059,2,7/21/2026,Outpatient,39,35,Follow-up Required,2
+50407,1100,4,4/1/2026,Specialist,44,26,Discharged,2
+50408,1099,6,6/22/2026,Outpatient,56,27,Discharged,5
+50409,1088,5,4/23/2026,Outpatient,18,45,Discharged,5
+50410,1186,2,1/7/2026,Follow-up,60,43,Discharged,5
+50411,1149,3,5/9/2026,Emergency,62,34,Discharged,4
+50412,1119,5,1/13/2026,Follow-up,107,49,Referred,4
+50413,1029,2,8/15/2026,Emergency,33,23,Discharged,4
+50414,1143,5,5/27/2026,outpatient,31,47,Admitted,4
+50415,1044,2,4/1/2026,Emergency,61,35,Discharged,4
+50416,1079,5,4/29/2026,Emergency,62,67,Referred,5
+50417,1104,1,5/31/2026,Follow-up,29,14,Discharged,5
+50418,1036,1,3/5/2026,Outpatient,32,20,Discharged,5
+50419,1098,6,3/12/2026,Outpatient,56,33,Discharged,3
+50420,1067,5,4/12/2026,Outpatient,21,33,Discharged,4
+50421,1213,6,3/4/2026,Outpatient,32,51,Follow-up Required,3
+50422,1215,6,7/4/2026,Follow-up,44,20,Discharged,1
+50423,1002,3,1/26/2026,Outpatient,67,39,Discharged,5
+50424,1151,2,7/20/2026,Outpatient,27,42,Discharged,4
+50425,1161,1,3/26/2026,Outpatient,3,36,Follow-up Required,5
+50426,1095,3,5/17/2026,Follow-up,3,16,Discharged,2
+50427,1118,1,2/8/2026,Outpatient,11,45,Discharged,5
+50428,1198,6,4/4/2026,Follow-up,9,43,Discharged,5
+50429,1095,1,7/3/2026,Follow-up,38,35,Discharged,4
+50430,1017,1,3/7/2026,Outpatient,12,30,Discharged,5
+50431,1094,1,2/2/2026,Follow-up,24,31,Referred,3
+50432,1064,1,5/7/2026,Outpatient,23,27,Discharged,5
+50433,1096,1,2/9/2026,Outpatient,31,36,Follow-up Required,5
+50434,1058,4,3/18/2026,Follow-up,75,28,Discharged,5
+50435,1038,2,4/20/2026,Specialist,59,18,Discharged,5
+50436,1247,4,5/18/2026,Outpatient,42,15,Discharged,4
+50437,1033,6,6/5/2026,Emergency,30,19,Discharged,5
+50438,1177,4,6/14/2026,Outpatient,31,31,Discharged,4
+50439,1180,4,7/25/2026,Emergency,50,28,Discharged,3
+50440,1155,2,1/17/2026,Emergency,57,31,Discharged,2
+50441,1228,1,3/30/2026,Emergency,19,34,Referred,
+50442,1002,2,1/1/2026,Emergency,43,20,Discharged,4
+50443,1076,6,1/3/2026,Outpatient,3,46,Discharged,4
+50444,1047,4,2/21/2026,Follow-up,47,25,Discharged,5
+50445,1145,2,5/26/2026,Follow-up,61,23,Discharged,4
+50446,1159,3,8/6/2026,Follow-up,35,34,Follow-up Required,4
+50447,1225,5,7/7/2026,Outpatient,87,6,Discharged,4
+50448,1095,4,6/7/2026,Outpatient,20,19,Follow-up Required,4
+50449,1059,3,7/9/2026,Outpatient,47,40,Discharged,5
+50450,1232,6,2/11/2026,Outpatient,41,7,Discharged,4
+50451,1169,4,7/24/2026,Outpatient,39,41,Referred,4
+50452,1192,4,8/5/2026,Outpatient,39,46,Discharged,5
+50453,1112,1,1/24/2026,Follow-up,45,24,Follow-up Required,5
+50454,1112,1,4/25/2026,Outpatient,63,32,Discharged,5
+50455,1098,6,7/21/2026,Follow-up,76,41,Referred,2
+50456,1188,4,4/26/2026,Emergency,42,22,Discharged,5
+50457,1053,2,7/24/2026,Follow-up,62,38,Discharged,4
+50458,1244,4,8/16/2026,Outpatient,24,20,Follow-up Required,2
+50459,1044,1,4/26/2026,Emergency,61,22,Discharged,4
+50460,1116,5,1/15/2026,Emergency,23,18,Discharged,5
+50461,1079,1,3/24/2026,Specialist,69,32,Referred,4
+50462,1161,5,2/22/2026,Emergency,97,42,Discharged,5
+50463,1171,3,4/26/2026,Emergency,39,26,Follow-up Required,3
+50464,1230,2,5/23/2026,Emergency,3,13,Follow-up Required,3
+50465,1198,1,4/23/2026,Follow-up,28,15,Admitted,4
+50466,1063,5,2/17/2026,Outpatient,73,33,Admitted,4
+50467,1052,1,3/15/2026,Emergency,56,50,Discharged,4
+50468,1222,1,6/15/2026,Emergency,48,33,Discharged,5
+50469,1122,4,1/7/2026,Specialist,67,23,Discharged,5
+50470,1025,2,2/22/2026,Emergency,54,37,Follow-up Required,3
+50471,1207,2,8/5/2026,Outpatient,72,25,Admitted,4
+50472,1163,1,1/25/2026,Specialist,65,23,Discharged,3
+50473,1007,5,4/11/2026,Outpatient,80,16,Discharged,4
+50474,1196,2,2/20/2026,Outpatient,51,45,Discharged,3
+50475,1152,1,1/26/2026,Outpatient,65,5,Discharged,4
+50476,1154,2,4/13/2026,Outpatient,34,38,Admitted,5
+50477,1217,1,5/7/2026,Outpatient,27,22,Discharged,
+50478,1124,2,2/12/2026,Outpatient,85,23,Follow-up Required,3
+50479,1116,1,1/19/2026,Follow-up,47,48,Follow-up Required,4
+50480,1155,1,2/2/2026,Follow-up,62,19,Referred,4
+50481,1050,2,6/8/2026,Outpatient,45,20,Discharged,4
+50482,1038,5,7/29/2026,Emergency,27,26,Referred,2
+50483,1211,1,2/13/2026,Outpatient,42,33,Follow-up Required,5
+50484,1054,1,3/19/2026,Specialist,78,23,Follow-up Required,4
+50485,1127,6,3/25/2026,Outpatient,56,9,Discharged,4
+50486,1068,6,3/29/2026,Emergency,3,18,Discharged,3
+50487,1058,4,3/1/2026,Outpatient,37,43,Follow-up Required,4
+50488,1150,1,1/14/2026,Emergency,87,29,Discharged,4
+50489,1201,2,5/8/2026,Outpatient,37,33,Discharged,3
+50490,1111,1,3/28/2026,Follow-up,3,25,Discharged,4
+50491,1035,1,3/25/2026,Outpatient,89,20,Discharged,4
+50492,1062,2,3/6/2026,Specialist,59,48,Discharged,5
+50493,1042,3,8/14/2026,Emergency,40,26,Discharged,5
+50494,1221,2,5/29/2026,Follow-up,33,23,Discharged,3
+50495,1080,4,4/12/2026,Follow-up,69,41,Admitted,2
+50496,1094,2,2/19/2026,Specialist,28,19,Referred,5
+50497,1018,2,7/14/2026,Outpatient,71,21,Discharged,5
+50498,1112,5,8/4/2026,Outpatient,56,28,Discharged,5
+50499,1229,5,1/8/2026,Outpatient,48,28,Discharged,1
+50500,1103,2,8/14/2026,Outpatient,46,31,Discharged,3
+50501,1163,3,6/19/2026,Emergency,38,53,Admitted,2
+50502,1046,2,1/25/2026,Specialist,68,32,Discharged,5
+50503,1036,1,7/3/2026,Specialist,20,5,Discharged,4
+50504,1183,4,1/27/2026,Emergency,3,32,Discharged,4
+50505,1017,1,1/13/2026,Emergency,57,28,Discharged,4
+50506,1113,2,1/29/2026,Follow-up,58,29,Admitted,
+50507,1080,3,4/22/2026,Specialist,54,31,Follow-up Required,4
+50508,1005,1,5/31/2026,Outpatient,52,28,Discharged,1
+50509,1133,1,4/9/2026,Emergency,34,27,Discharged,4
+50510,1242,2,1/30/2026,Follow-up,62,35,Referred,
+50511,1018,6,2/18/2026,Outpatient,41,21,Discharged,4
+50512,1204,4,7/27/2026,Outpatient,30,17,Admitted,4
+50513,1135,2,8/22/2026,Emergency ,34,64,Admitted,5
+50514,1181,1,7/3/2026,Specialist,93,19,Discharged,5
+50515,1025,4,1/26/2026,Specialist,3,29,Admitted,3
+50516,1218,1,7/19/2026,Follow-up,54,10,Discharged,3
+50517,1003,3,6/18/2026,Outpatient,3,29,Follow-up Required,4
+50518,1227,4,5/8/2026,Outpatient,39,17,Discharged,3
+50519,1165,2,2/4/2026,Emergency,31,23,Discharged,2
+50520,1085,2,8/31/2026,Emergency,3,41,Discharged,3
+50521,1002,1,4/18/2026,Emergency,52,34,Discharged,3
+50522,1153,1,1/11/2026,Emergency,32,35,Discharged,4
+50523,1022,3,2/21/2026,Outpatient,3,7,Discharged,4
+50524,1153,6,4/8/2026,Follow-up,63,50,Follow-up Required,3
+50525,1194,1,1/16/2026,Outpatient,78,14,Discharged,5
+50526,1067,3,3/20/2026,Outpatient,79,46,Discharged,3
+50527,1060,4,4/24/2026,Outpatient,51,40,Referred,3
+50528,1056,1,8/19/2026,Outpatient,43,35,Referred,3
+50529,1057,1,1/21/2026,Follow-up,75,18,Discharged,5
+50530,1029,2,5/21/2026,Outpatient,84,30,Discharged,5
+50531,1063,4,8/11/2026,Outpatient,70,22,Follow-up Required,4
+50532,1165,3,7/15/2026,Follow-up,18,28,Follow-up Required,2
+50533,1076,4,8/13/2026,Emergency,47,25,Discharged,3
+50534,1196,5,2/11/2026,Outpatient,53,5,Follow-up Required,3
+50535,1205,4,7/14/2026,Outpatient,3,41,Discharged,5
+50536,1191,6,8/26/2026,Outpatient,54,27,Discharged,2
+50537,1135,4,3/21/2026,Emergency,99,22,Follow-up Required,5
+50538,1080,5,5/2/2026,Outpatient,58,21,Follow-up Required,4
+50539,1233,5,5/9/2026,Outpatient,79,32,Admitted,4
+50540,1052,4,4/30/2026,Outpatient,47,17,Discharged,5
+50541,1117,5,3/12/2026,Emergency,40,5,Discharged,1
+50542,1114,6,8/24/2026,Outpatient,52,33,Discharged,5
+50543,1187,3,8/21/2026,Follow-up,22,34,Discharged,2
+50544,1137,4,4/3/2026,Outpatient,18,26,Discharged,5
+50545,1200,3,7/15/2026,Emergency,74,14,Discharged,4
+50546,1230,5,4/7/2026,Outpatient,76,29,Discharged,2
+50547,1098,3,7/13/2026,Outpatient,17,10,Follow-up Required,5
+50548,1219,5,5/23/2026,Outpatient,66,16,Discharged,1
+50549,1043,5,4/25/2026,Follow-up,40,19,Discharged,3
+50550,1230,6,2/1/2026,Specialist,50,38,Follow-up Required,5
+50551,1045,1,6/9/2026,Outpatient,54,24,Discharged,4
+50552,1213,4,3/20/2026,Outpatient,67,23,Admitted,5
+50553,1098,4,2/22/2026,Specialist,44,51,Discharged,4
+50554,1242,6,2/16/2026,Emergency,77,32,Discharged,4
+50555,1033,6,8/27/2026,Outpatient,50,32,Admitted,3
+50556,1117,3,1/26/2026,Outpatient,58,24,Follow-up Required,3
+50557,1226,3,7/14/2026,Emergency,21,21,Follow-up Required,5
+50558,1012,1,7/30/2026,Follow-up,96,5,Follow-up Required,2
+50559,1067,6,1/8/2026,Emergency,54,40,Discharged,4
+50560,1021,1,5/24/2026,Specialist,60,33,Follow-up Required,3
+50561,1081,4,5/21/2026,Emergency,3,26,Admitted,
+50562,1098,5,3/29/2026,Outpatient,21,26,Referred,4
+50563,1155,3,6/12/2026,Outpatient,73,37,Discharged,5
+50564,1065,1,4/10/2026,Outpatient,49,9,Discharged,5
+50565,1040,1,4/17/2026,Outpatient,3,21,Follow-up Required,5
+50566,1043,5,4/15/2026,Outpatient,68,14,Discharged,3
+50567,1235,3,7/14/2026,Outpatient,28,49,Discharged,4
+50568,1239,1,6/3/2026,Follow-up,77,39,Discharged,1
+50569,1056,4,4/3/2026,Outpatient,40,5,Discharged,5
+50570,1049,1,8/14/2026,Outpatient,47,10,Discharged,3
+50571,1014,5,7/14/2026,Emergency,71,26,Discharged,4
+50572,1240,2,8/15/2026,Emergency,20,22,Discharged,3
+50573,1177,1,6/27/2026,Follow-up,17,12,Discharged,
+50574,1191,1,4/6/2026,Follow-up,37,51,Referred,5
+50575,1073,3,7/7/2026,Follow-up,63,32,Discharged,5
+50576,1161,3,3/22/2026,Outpatient,9,34,Discharged,2
+50577,1015,4,3/7/2026,Outpatient,3,20,Discharged,5
+50578,1170,3,4/20/2026,Emergency,63,37,Discharged,3
+50579,1145,2,8/24/2026,Outpatient,27,23,Referred,3
+50580,1083,1,5/19/2026,Outpatient,32,25,Admitted,3
+50581,1178,2,4/4/2026,Outpatient,275,35,Discharged,3
+50582,1162,6,4/23/2026,Outpatient,25,8,Discharged,4
+50583,1110,1,3/12/2026,Outpatient,42,47,Discharged,3
+50584,1047,6,6/10/2026,Outpatient,65,30,Discharged,4
+50585,1006,2,3/27/2026,Follow-up,23,43,Discharged,4
+50586,1235,1,5/15/2026,Specialist,83,15,Discharged,5
+50587,1071,1,3/31/2026,Outpatient,25,17,Discharged,4
+50588,1076,1,3/19/2026,Specialist,25,14,Discharged,4
+50589,1171,5,8/24/2026,Outpatient,80,31,Discharged,3
+50590,1064,3,3/26/2026,Specialist,47,29,Discharged,5
+50591,1094,2,1/18/2026,Specialist,28,22,Discharged,1
+50592,1178,4,4/2/2026,Outpatient,38,16,Discharged,3
+50593,1149,4,5/10/2026,Follow-up,76,13,Discharged,2
+50594,1165,6,1/23/2026,Specialist,79,27,Discharged,4
+50595,1002,6,3/16/2026,Specialist,22,22,Discharged,4
+50596,1113,4,2/10/2026,Specialist,41,20,Discharged,4
+50597,1119,5,5/2/2026,Emergency,44,47,Follow-up Required,4
+50598,1159,5,6/25/2026,Outpatient,17,27,Admitted,4
+50599,1038,3,8/24/2026,Follow-up,41,43,Discharged,4
+50600,1040,4,4/5/2026,Emergency,42,22,Discharged,2
+50601,1191,1,7/29/2026,Emergency,360,31,Follow-up Required,4
+50602,1169,4,2/22/2026,Outpatient,72,27,Follow-up Required,4
+50603,1203,6,7/9/2026,Emergency,34,8,Discharged,4
+50604,1068,1,5/17/2026,Outpatient,37,45,Discharged,2
+50605,1250,5,7/4/2026,Follow-up,59,26,Discharged,4
+50606,1069,6,7/3/2026,Outpatient,27,37,Discharged,3
+50607,1163,1,5/10/2026,Follow-up,57,19,Discharged,1
+50608,1041,3,3/4/2026,Follow-up,40,26,Discharged,3
+50609,1230,6,5/8/2026,Outpatient,18,18,Discharged,4
+50610,1084,6,7/20/2026,Emergency,18,43,Discharged,3
+50611,1201,1,8/24/2026,Outpatient,78,32,Discharged,4
+50612,1083,2,8/14/2026,Specialist,38,32,Follow-up Required,3
+50613,1198,4,2/14/2026,Follow-up,83,44,Discharged,5
+50614,1114,1,5/26/2026,Outpatient,29,42,Discharged,3
+50615,1016,2,1/26/2026,Outpatient,49,37,Discharged,4
+50616,1048,1,6/12/2026,Outpatient,102,11,Admitted,5
+50617,1171,1,8/30/2026,Outpatient,16,20,Discharged,4
+50618,1049,3,1/13/2026,Specialist,3,16,Discharged,2
+50619,1069,4,6/9/2026,Follow-up,74,37,Discharged,4
+50620,1136,4,8/18/2026,Outpatient,21,30,Follow-up Required,5
+50621,1064,5,7/25/2026,Follow-up,41,11,Follow-up Required,5
+50622,1033,2,4/6/2026,Outpatient,27,26,Admitted,3
+50623,1157,2,1/26/2026,Follow-up,49,10,Follow-up Required,5
+50624,1173,1,8/13/2026,Outpatient,18,27,Discharged,
+50625,1184,1,8/12/2026,Emergency,38,8,Discharged,3
+50626,1236,2,5/21/2026,Specialist,53,34,Discharged,4
+50627,1032,1,8/26/2026,Outpatient,17,33,Follow-up Required,4
+50628,1107,1,1/2/2026,Follow-up,24,51,Follow-up Required,4
+50629,1059,1,5/30/2026,Specialist,33,38,Discharged,5
+50630,1226,4,1/10/2026,Outpatient,6,23,Admitted,4
+50631,1135,4,8/16/2026,Outpatient,31,38,Discharged,4
+50632,1025,6,6/15/2026,Follow-up,45,11,Discharged,4
+50633,1174,5,8/10/2026,Outpatient,32,16,Discharged,2
+50634,1011,3,5/17/2026,Outpatient,35,32,Admitted,4
+50635,1069,1,1/21/2026,Outpatient,42,5,Admitted,5
+50636,1181,3,1/7/2026,Follow-up,26,28,Discharged,4
+50637,1127,1,3/23/2026,Outpatient,59,16,Referred,2
+50638,1191,3,6/30/2026,Outpatient,78,29,Admitted,4
+50639,1143,2,2/6/2026,Follow-up,30,15,Admitted,5
+50640,1211,2,7/27/2026,Emergency,54,33,Admitted,5
+50641,1141,2,2/28/2026,Follow-up,36,28,Discharged,4
+50642,1015,4,5/1/2026,Outpatient,51,45,Follow-up Required,4
+50643,1018,5,2/19/2026,Specialist,81,28,Follow-up Required,4
+50644,1195,5,4/24/2026,Emergency,55,19,Follow-up Required,5
+50645,1010,4,4/20/2026,Outpatient,3,25,Discharged,5
+50646,1095,3,1/2/2026,Specialist,53,12,Follow-up Required,5
+50647,1005,1,5/18/2026,Emergency,73,33,Referred,4
+50648,1076,4,7/11/2026,Outpatient,36,35,Discharged,2
+50649,1149,3,8/16/2026,Outpatient,67,58,Referred,4
+50650,1044,2,3/22/2026,Follow-up,25,21,Discharged,3
+50651,1117,2,8/2/2026,Outpatient,5,25,Discharged,2
+50652,1250,6,8/2/2026,Outpatient,46,21,Discharged,4
+50653,1018,4,8/29/2026,Outpatient,3,31,Follow-up Required,4
+50654,1016,3,4/1/2026,Outpatient,36,33,Discharged,5
+50655,1068,4,7/26/2026,Outpatient,74,27,Discharged,5
+50656,1207,2,5/18/2026,Emergency,3,41,Follow-up Required,5
+50657,1102,3,1/15/2026,Outpatient,10,21,Discharged,5
+50658,1160,2,3/7/2026,Outpatient,16,40,Discharged,5
+50659,1009,3,6/13/2026,Emergency,40,34,Admitted,1
+50660,1184,4,2/9/2026,Outpatient,33,28,Follow-up Required,4
+50661,1017,1,4/16/2026,Emergency,77,24,Follow-up Required,3
+50662,1178,5,7/8/2026,Outpatient,66,57,Follow-up Required,2
+50663,1037,2,2/6/2026,Outpatient,54,18,Referred,3
+50664,1215,4,5/1/2026,Outpatient,46,32,Discharged,5
+50665,1075,4,2/22/2026,Outpatient,52,19,Discharged,5
+50666,1046,4,5/11/2026,Outpatient,20,49,Discharged,5
+50667,1085,4,2/28/2026,Follow-up,63,39,Discharged,5
+50668,1001,6,8/23/2026,Outpatient,14,20,Follow-up Required,5
+50669,1042,3,1/19/2026,Emergency,63,34,Follow-up Required,3
+50670,1150,4,8/23/2026,Emergency,72,31,Discharged,5
+50671,1076,4,7/12/2026,Outpatient,47,22,Discharged,5
+50672,1089,1,7/27/2026,Emergency,38,37,Follow-up Required,5
+50673,1202,2,7/26/2026,Outpatient,52,33,Referred,
+50674,1031,2,2/15/2026,Outpatient,3,31,Discharged,2
+50675,1099,2,8/15/2026,Outpatient,50,27,Discharged,5
+50676,1047,2,5/25/2026,Follow-up,39,33,Discharged,3
+50677,1121,2,8/22/2026,Specialist,41,31,Discharged,4
+50678,1083,4,8/2/2026,Outpatient,60,29,Discharged,4
+50679,1012,1,5/21/2026,Emergency,40,20,Discharged,3
+50680,1018,5,4/1/2026,Follow-up,13,48,Follow-up Required,1
+50681,1214,3,1/29/2026,Outpatient,38,15,Discharged,5
+50682,1015,4,1/25/2026,Follow-up,44,33,Discharged,5
+50683,1196,1,4/5/2026,Emergency,45,24,Discharged,5
+50684,1230,3,7/17/2026,Specialist,46,49,Admitted,3
+50685,1117,1,5/3/2026,Specialist,68,17,Discharged,3
+50686,1079,4,4/28/2026,Outpatient,15,19,Discharged,4
+50687,1195,2,3/1/2026,Outpatient,46,16,Discharged,4
+50688,1246,6,5/18/2026,Emergency,74,32,Follow-up Required,1
+50689,1031,2,6/5/2026,Outpatient,3,12,Admitted,5
+50690,1242,3,8/27/2026,Outpatient,46,22,Discharged,5
+50691,1236,1,6/27/2026,Specialist,27,5,Discharged,4
+50692,1036,4,5/28/2026,Outpatient,33,31,Discharged,4
+50693,1014,3,8/10/2026,Outpatient,19,22,Follow-up Required,4
+50694,1179,2,4/14/2026,Follow-up,38,10,Referred,2
+50695,1020,1,8/16/2026,Outpatient,88,41,Discharged,3
+50696,1151,1,3/31/2026,Outpatient,10,12,Discharged,4
+50697,1017,1,2/1/2026,Specialist,13,38,Follow-up Required,4
+50698,1173,6,4/12/2026,Outpatient,9,20,Follow-up Required,4
+50699,1058,2,2/1/2026,Outpatient,85,47,Discharged,5
+50700,1025,1,1/29/2026,outpatient,30,37,Discharged,3
+50701,1017,6,8/3/2026,Specialist,41,16,Discharged,1
+50702,1048,1,7/13/2026,Outpatient,32,17,Follow-up Required,1
+50703,1136,2,2/23/2026,Emergency,18,35,Follow-up Required,3
+50704,1020,4,7/23/2026,Outpatient,36,25,Follow-up Required,4
+50705,1201,6,1/17/2026,Outpatient,103,26,Admitted,5
+50706,1152,4,3/11/2026,Specialist,77,43,Discharged,5
+50707,1075,3,6/21/2026,Emergency,21,19,Discharged,4
+50708,1247,6,3/15/2026,Specialist,58,29,Discharged,4
+50709,1165,1,6/27/2026,Outpatient,21,39,Admitted,3
+50710,1168,6,8/1/2026,Emergency,3,38,Follow-up Required,4
+50711,1044,5,1/17/2026,Follow-up,67,26,Discharged,4
+50712,1178,6,1/6/2026,Outpatient,71,25,Discharged,5
+50713,1140,1,8/17/2026,Outpatient,68,7,Follow-up Required,4
+50714,1247,1,5/7/2026,Follow-up,30,15,Follow-up Required,3
+50715,1120,4,5/4/2026,Outpatient,38,32,Follow-up Required,3
+50716,1170,3,4/23/2026,Emergency,61,26,Discharged,3
+50717,1086,3,4/16/2026,Specialist,52,29,Admitted,5
+50718,1011,6,6/17/2026,Outpatient,32,40,Follow-up Required,2
+50719,1032,4,5/21/2026,Outpatient,3,14,Follow-up Required,1
+50720,1217,2,2/9/2026,Outpatient,45,25,Follow-up Required,3
+50409,1088,5,4/23/2026,Outpatient,18,45,Discharged,5
+50460,1116,5,1/15/2026,Emergency,23,18,Discharged,5
+50114,1063,2,8/10/2026,Emergency,65,32,Follow-up Required,3
+50705,1201,6,1/17/2026,Outpatient,103,26,Admitted,5

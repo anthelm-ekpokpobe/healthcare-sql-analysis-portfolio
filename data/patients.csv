@@ -1,0 +1,251 @@
+patient_id,first_name,last_name,gender,date_of_birth,city,insurance_status
+1001,Amina,Ekanem,Female,4/8/1958,Port Harcourt,Insured
+1002,Musa,Bello,Male,7/8/1981,Benin City,Insured
+1003,Ahmed,Adeyemi,Male,12/1/1958,Ibadan,Insured
+1004,Joseph,Usman,Female,5/21/1969,Abuja,Insured
+1005,Emeka,Balogun,Female,11/1/1993,Abuja,Uninsured
+1006,Samuel,Aliyu,Male,9/8/1955,Benin City,Insured
+1007,Fatima,Obi,Female,2/5/1995,Lagos,Insured
+1008,Ngozi,Ogunleye,Male,8/23/1952,Benin City,Uninsured
+1009,Emeka,Bello,Female,12/13/1957,Abuja,Insured
+1010,Ngozi,Obi,Female,6/10/1988,Lagos,Insured
+1011,Ahmed,Eze,Male,8/29/2003,Lagos,Uninsured
+1012,Grace,Balogun,Male,8/12/1957,Benin City,Insured
+1013,Esther,Usman,Male,3/6/1967,Lagos,Insured
+1014,Esther,Usman,Male,5/22/2013,Lagos,Insured
+1015,Ahmed,Ogunleye,Male,2/28/2018,Lagos,Uninsured
+1016,Amina,Okon,Male,12/15/1987,Lagos,Insured
+1017,Joseph,Mohammed,Male,1/18/1978,Lagos,Insured
+1018,Chinedu,Udo,Female,8/23/1970,Port Harcourt,Insured
+1019,Samuel,Bello,Male,4/11/1990,Lagos,Insured
+1020,David,Ogunleye,Female,9/6/1988,Benin City,Insured
+1021,Ifeanyi,Afolabi,Male,10/16/1966,Benin City,Insured
+1022,Amina,Ekanem,Female,9/8/1946,Lagos,Insured
+1023,Tunde,Okafor,Female,3/14/1956,Lagos,Insured
+1024,Esther,Obi,Male,11/11/2015,Abuja,Uninsured
+1025,Zainab,Lawal,Male,11/30/1975,Lagos,Insured
+1026,Zainab,Ekanem,Male,8/27/1980,Lagos,Uninsured
+1027,Mary,Aliyu,Female,7/13/1979,Ibadan,Insured
+1028,Amina,Bello,Male,11/11/2002,Ibadan,Insured
+1029,Mary,Ibrahim,Male,10/20/1949,Benin City,Uninsured
+1030,Mary,Onyeka,Female,2/12/1951,Lagos,Uninsured
+1031,David,Onyeka,Female,5/23/1965,Port Harcourt,Insured
+1032,Tunde,Mohammed,Female,12/22/1980,Port Harcourt,Uninsured
+1033,Tunde,Bello,Female,8/12/1994,Lagos,Insured
+1034,Emeka,Bello,Male,4/11/1981,Port Harcourt,Insured
+1035,David,Udo,Male,8/12/1977,Lagos,Uninsured
+1036,Tunde,Balogun,Female,4/30/2014,Lagos,Insured
+1037,Samuel,Okafor,Male,11/26/1956,Abuja,Uninsured
+1038,Amina,Afolabi,Male,4/7/1987,Lagos,Insured
+1039,Fatima,Okechukwu,Female,1/31/1985,Lagos,Uninsured
+1040,Ada,Okafor,Male,1/2/1980,Benin City,Insured
+1041,Grace,Adeyemi,Female,9/13/2004,Ibadan,Insured
+1042,Chinedu,Udo,Male,9/26/1964,Abuja,Insured
+1043,Tunde,Obi,Male,7/4/2015,Benin City,Insured
+1044,Tunde,Lawal,Female,7/6/1969,Ibadan,Insured
+1045,Esther,Aliyu,Female,4/16/1985,Lagos,Insured
+1046,Chinedu,Ibrahim,Male,6/29/1983,Abuja,Insured
+1047,Blessing,Ekanem,Female,10/27/2007,Lagos,Insured
+1048,David,Udo,Male,6/12/1977,Lagos,Insured
+1049,Fatima,Nwosu,Male,1/14/1966,Port Harcourt,Uninsured
+1050,Musa,Aliyu,Male,8/7/1946,Abuja,Uninsured
+1051,Esther,Okafor,Male,11/20/1971,Abuja,Uninsured
+1052,Ifeanyi,Nwosu,Female,1/30/2006,Lagos,
+1053,Esther,Okechukwu,Female,9/25/1945,Lagos,Uninsured
+1054,Zainab,Usman,Female,4/1/2011,Ibadan,Insured
+1055,Ahmed,Obi,Female,2/16/1985,Lagos,Insured
+1056,Fatima,Okon,Female,5/15/1955,Lagos,Insured
+1057,Grace,Okechukwu,Male,5/4/1967,Lagos,Uninsured
+1058,Joseph,Bello,Female,12/15/1985,Abuja,Insured
+1059,Daniel,Ogunleye,Male,5/3/1968,Abuja,Insured
+1060,Joseph,Ekanem,Male,1/10/1953,Abuja,Uninsured
+1061,Fatima,Okafor,Male,3/26/1994,Lagos,Insured
+1062,Ada,Onyeka,Male,9/11/1994,Lagos,Insured
+1063,Samuel,Afolabi,Female,10/15/1953,Benin City,Uninsured
+1064,Tunde,Ibrahim,Male,10/16/1965,Port Harcourt,Insured
+1065,Joseph,Okon,Female,1/11/1963,Port Harcourt,Insured
+1066,Ngozi,Lawal,Female,9/30/1993,Port Harcourt,Uninsured
+1067,Ngozi,Okafor,Male,12/26/1998,Port Harcourt,Uninsured
+1068,Ngozi,Bello,Female,9/28/1998,Lagos,Insured
+1069,Chioma,Afolabi,Female,5/25/2014,Lagos,Insured
+1070,David,Ekanem,Female,10/27/2001,Abuja,Insured
+1071,Mary,Okafor,Male,9/15/1968,Lagos,Insured
+1072,Blessing,Afolabi,Female,12/19/1952,Benin City,Insured
+1073,Emeka,Bello,Female,6/9/1990,Abuja,Insured
+1074,Ada,Afolabi,Female,9/18/2012,Port Harcourt,Insured
+1075,Ada,Mohammed,Male,2/1/2017,Benin City,Uninsured
+1076,Ifeanyi,Adeyemi,Female,1/7/1962,Abuja,Insured
+1077,Mary,Afolabi,Female,6/25/1962,Ibadan,Insured
+1078,Fatima,Onyeka,Female,10/8/1947,Abuja,Insured
+1079,Joseph,Onyeka,Male,6/12/1955,Benin City,Uninsured
+1080,Amina,Okafor,Male,1/7/1986,Lagos,Insured
+1081,Chinedu,Johnson,Male,6/3/1985,Abuja,Insured
+1082,Esther,Johnson,Female,6/2/1972,Abuja,Insured
+1083,Amina,Udo,Female,11/30/1967,Lagos,Insured
+1084,Chinedu,Bello,Male,5/5/2006,Lagos,Insured
+1085,Blessing,Onyeka,Male,1/3/1979,Ibadan,Uninsured
+1086,Mary,Okon,Male,9/30/2004,Port Harcourt,Insured
+1087,Musa,Lawal,Female,3/15/2016,Lagos,Uninsured
+1088,Chinedu,Eze,Female,6/11/1968,Lagos,Uninsured
+1089,Esther,Okafor,Male,12/27/1959,Lagos,Insured
+1090,Esther,Usman,Male,6/11/2015,Lagos,Insured
+1091,Esther,Ibrahim,Female,12/6/1991,Ibadan,Insured
+1092,Mary,Afolabi,Male,7/4/1966,Abuja,Uninsured
+1093,Ngozi,Usman,Male,12/21/1990,Lagos,Insured
+1094,Ahmed,Okafor,Female,1/28/1983,Abuja,Insured
+1095,Zainab,Okafor,Male,12/10/2011,Lagos,Insured
+1096,Esther,Okafor,Female,12/4/1963,Lagos,Uninsured
+1097,David,Eze,Female,4/15/2018,Port Harcourt,
+1098,Daniel,Adeyemi,Male,3/13/2014,Port Harcourt,Uninsured
+1099,Chioma,Lawal,Male,5/11/1958,Ibadan,Insured
+1100,Chioma,Mohammed,Female,3/3/1957,Port Harcourt,Uninsured
+1101,Chioma,Ekanem,Male,5/31/1984,Abuja,Insured
+1102,Daniel,Lawal,Female,4/27/1948,Port Harcourt,Insured
+1103,Grace,Ekanem,Male,2/2/1967,Ibadan,Uninsured
+1104,Amina,Johnson,Female,3/1/1977,Port Harcourt,Uninsured
+1105,Esther,Ibrahim,Male,8/29/2016,Ibadan,Insured
+1106,Fatima,Lawal,Male,5/12/2018,Benin City,Insured
+1107,Zainab,Johnson,Male,3/15/1956,Benin City,Uninsured
+1108,Fatima,Adeyemi,Male,12/1/2010,Lagos,Uninsured
+1109,Ahmed,Afolabi,Female,9/22/1951,Port Harcourt,Insured
+1110,Joseph,Lawal,Male,5/4/2000,Abuja,Insured
+1111,Esther,Ekanem,Female,7/7/2007,Abuja,Uninsured
+1112,Samuel,Usman,Male,11/7/2010,Port Harcourt,Uninsured
+1113,Daniel,Bello,Male,7/8/1961,Ibadan,Uninsured
+1114,Ifeanyi,Okon,Female,1/18/2011,Ibadan,Insured
+1115,Musa,Lawal,Male,7/29/1953,Lagos,Insured
+1116,Chioma,Afolabi,Male,5/11/1983,Port Harcourt,Uninsured
+1117,Ngozi,Lawal,Female,9/17/1979,Port Harcourt,Uninsured
+1118,Emeka,Lawal,Female,5/10/1968,Lagos,Uninsured
+1119,Chinedu,Aliyu,Female,8/21/1946,Lagos,Insured
+1120,Amina,Okafor,Female,1/26/2002,Lagos,Insured
+1121,Blessing,Udo,Female,10/22/1969,Benin City,Uninsured
+1122,Samuel,Johnson,Male,11/29/1993,Abuja,Insured
+1123,Tunde,Bello,Male,4/29/1975,Ibadan,Uninsured
+1124,Blessing,Bello,Female,8/15/1972,Abuja,Insured
+1125,Chioma,Afolabi,Male,7/8/2010,Ibadan,Uninsured
+1126,Ngozi,Okechukwu,Male,12/26/1951,Lagos,Uninsured
+1127,Zainab,Okechukwu,Female,6/15/1999,Benin City,Insured
+1128,Ifeanyi,Obi,Male,3/16/2000,Lagos,Insured
+1129,Fatima,Okechukwu,Male,2/2/1973,Abuja,Insured
+1130,Ifeanyi,Mohammed,Male,5/27/1964,Benin City,Insured
+1131,Grace,Adeyemi,Male,5/24/1945,Ibadan,Insured
+1132,Zainab,Onyeka,Male,4/2/2014,Benin City,Insured
+1133,Blessing,Aliyu,Female,1/22/2015,Lagos,Uninsured
+1134,Ifeanyi,Eze,Male,10/25/1962,Lagos,Insured
+1135,Tunde,Lawal,Male,5/12/1947,Lagos,Insured
+1136,Musa,Obi,Female,1/28/1954,Lagos,Insured
+1137,Ngozi,Adeyemi,Male,1/1/1950,Port Harcourt,Insured
+1138,Emeka,Eze,Female,6/10/2006,Port Harcourt,Insured
+1139,Daniel,Okafor,Female,12/7/2010,Benin City,Insured
+1140,Mary,Ibrahim,Female,5/1/1956,Benin City,Uninsured
+1141,Musa,Adeyemi,Male,3/14/2000,Port Harcourt,Insured
+1142,Mary,Obi,Female,4/3/1958,Benin City,Uninsured
+1143,Joseph,Okechukwu,Female,2/23/1972,Lagos,Insured
+1144,Samuel,Ekanem,Female,4/23/1989,Lagos,Insured
+1145,Daniel,Obi,Male,3/22/1998,Port Harcourt,Uninsured
+1146,Zainab,Mohammed,Male,8/26/2009,Benin City,Uninsured
+1147,Samuel,Okechukwu,Female,4/24/1948,Lagos,Insured
+1148,Fatima,Adeyemi,Female,7/10/1959,Abuja,Insured
+1149,Ahmed,Adeyemi,Male,9/26/1965,Port Harcourt,Insured
+1150,Esther,Mohammed,Female,12/10/1967,Lagos,Insured
+1151,Samuel,Okafor,Male,10/11/2018,Lagos,Insured
+1152,Musa,Okafor,Female,6/20/2002,Benin City,Insured
+1153,Ngozi,Johnson,Male,9/8/1968,Port Harcourt,Insured
+1154,Esther,Onyeka,Female,11/3/2016,Lagos,Insured
+1155,David,Udo,Female,11/29/1981,Benin City,Uninsured
+1156,Fatima,Obi,Male,1/7/1982,Lagos,Insured
+1157,Daniel,Aliyu,Female,1/22/1977,Benin City,Insured
+1158,Chioma,Eze,Male,8/22/1955,Lagos,Insured
+1159,Chinedu,Ogunleye,Male,1/27/2014,Abuja,
+1160,Emeka,Adeyemi,Male,1/12/1946,Lagos,Insured
+1161,Tunde,Okon,Male,11/19/1957,Lagos,Uninsured
+1162,Grace,Eze,Male,12/23/1961,Benin City,Uninsured
+1163,Ada,Ogunleye,Female,8/25/1965,Lagos,Uninsured
+1164,Ngozi,Ekanem,Female,9/30/1954,Lagos,Uninsured
+1165,David,Balogun,Female,4/30/1946,Lagos,Uninsured
+1166,Musa,Udo,Male,2/4/1995,Port Harcourt,Uninsured
+1167,Fatima,Okechukwu,Female,8/27/2016,Benin City,Insured
+1168,Joseph,Okon,Female,1/3/1954,Ibadan,Insured
+1169,Mary,Ibrahim,Female,12/3/1966,Lagos,Insured
+1170,Amina,Mohammed,Female,6/6/1982,Lagos,Insured
+1171,Ahmed,Onyeka,Female,7/25/2013,Lagos,Insured
+1172,Chioma,Balogun,Female,4/28/1996,Abuja,Uninsured
+1173,Chioma,Aliyu,Male,8/22/2001,Ibadan,Insured
+1174,Chinedu,Bello,Male,12/17/1987,Port Harcourt,Insured
+1175,Chioma,Johnson,Male,10/30/1975,Abuja,Insured
+1176,Grace,Usman,Female,10/8/1959,Lagos,Insured
+1177,David,Okechukwu,Male,11/22/2008,Ibadan,Insured
+1178,Chinedu,Nwosu,Female,6/11/2004,Abuja,Uninsured
+1179,Fatima,Aliyu,Male,11/9/1946,Lagos,Insured
+1180,Mary,Balogun,Male,11/19/1997,Lagos,Uninsured
+1181,Grace,Okechukwu,Male,3/29/1951,Lagos,Insured
+1182,Amina,Afolabi,Female,8/18/1999,Lagos,Insured
+1183,Ahmed,Ibrahim,Female,1/21/2006,Lagos,Insured
+1184,Ahmed,Mohammed,Male,9/9/1954,Abuja,Uninsured
+1185,Tunde,Aliyu,Female,1/26/1977,Port Harcourt,Uninsured
+1186,Esther,Usman,Female,2/24/1954,Lagos,Insured
+1187,Blessing,Eze,Female,12/8/1986,Abuja,Uninsured
+1188,David,Bello,Female,7/27/2013,Ibadan,Insured
+1189,Blessing,Udo,Female,12/24/1950,Port Harcourt,Uninsured
+1190,Daniel,Okechukwu,Female,5/23/1974,Abuja,Insured
+1191,Ahmed,Afolabi,Male,12/8/2016,Lagos,Insured
+1192,Daniel,Aliyu,Male,4/1/1967,Benin City,Uninsured
+1193,Mary,Usman,Male,10/10/1954,Lagos,Insured
+1194,Mary,Udo,Female,2/12/1981,Lagos,Insured
+1195,Chinedu,Bello,Male,8/1/1982,Ibadan,Insured
+1196,Emeka,Bello,Female,1/1/1994,Abuja,
+1197,Grace,Ekanem,Female,3/11/1968,Port Harcourt,Uninsured
+1198,David,Bello,Female,8/23/2015,Abuja,Uninsured
+1199,Chinedu,Usman,Female,7/8/1983,Port Harcourt,Uninsured
+1200,Chinedu,Ibrahim,Male,3/6/1966,Lagos,Insured
+1201,Fatima,Adeyemi,Female,12/27/2015,Lagos,Insured
+1202,Chioma,Nwosu,Male,5/13/2013,Lagos,Insured
+1203,Tunde,Mohammed,Female,11/25/1981,Lagos,Insured
+1204,Tunde,Aliyu,Male,11/3/1946,Benin City,Insured
+1205,Amina,Okon,Female,2/16/1989,Lagos,
+1206,David,Mohammed,Female,1/16/1986,Abuja,Uninsured
+1207,Ada,Aliyu,Male,12/16/1955,Benin City,Uninsured
+1208,David,Mohammed,Male,11/13/1991,Benin City,Insured
+1209,Samuel,Ekanem,Female,2/26/2007,Abuja,Insured
+1210,Samuel,Aliyu,Male,10/30/1952,Abuja,Insured
+1211,Musa,Eze,Female,6/21/1998,Ibadan,Insured
+1212,Fatima,Aliyu,Male,5/18/1955,Port Harcourt,Insured
+1213,Grace,Lawal,Male,5/10/2000,Benin City,Insured
+1214,Daniel,Johnson,Female,12/26/1975,Ibadan,Insured
+1215,Mary,Usman,Male,6/25/1945,Benin City,Uninsured
+1216,Daniel,Balogun,Female,6/5/2016,Lagos,Insured
+1217,Fatima,Mohammed,Female,4/9/1957,Abuja,Uninsured
+1218,Samuel,Nwosu,Female,1/23/1989,Lagos,
+1219,Ngozi,Usman,Female,6/1/1958,Port Harcourt,Insured
+1220,David,Okafor,Male,12/21/2013,Ibadan,Insured
+1221,Amina,Ibrahim,Female,7/31/1999,Abuja,Insured
+1222,Mary,Aliyu,Female,6/17/2004,Abuja,Insured
+1223,Esther,Udo,Male,12/10/1976,Lagos,Insured
+1224,Amina,Udo,Female,7/21/1979,Ibadan,Uninsured
+1225,Daniel,Bello,Male,11/22/1991,Lagos,Insured
+1226,Amina,Johnson,Female,1/5/2003,Lagos,Insured
+1227,Grace,Adeyemi,Male,8/12/2007,Lagos,Insured
+1228,Chinedu,Balogun,Male,4/27/1946,Lagos,Insured
+1229,Samuel,Ogunleye,Male,1/20/1994,Abuja,Insured
+1230,Musa,Balogun,Female,1/25/1953,Abuja,Insured
+1231,Grace,Balogun,Female,4/15/1966,Lagos,Uninsured
+1232,Blessing,Obi,Male,4/25/2006,Lagos,Uninsured
+1233,Mary,Okechukwu,Female,7/9/1963,Lagos,Uninsured
+1234,Daniel,Mohammed,Male,11/27/2003,Lagos,
+1235,Ngozi,Balogun,Female,3/25/1979,Lagos,Insured
+1236,Musa,Afolabi,Male,3/14/1962,Port Harcourt,Uninsured
+1237,Grace,Mohammed,Male,9/16/1969,Lagos,Insured
+1238,Zainab,Nwosu,Female,3/27/1984,Lagos,Insured
+1239,Grace,Johnson,Female,7/24/2001,Lagos,Insured
+1240,Joseph,Okon,Male,10/19/1989,Lagos,Uninsured
+1241,Esther,Nwosu,Female,12/27/2013,Lagos,Insured
+1242,Daniel,Okechukwu,Male,2/22/2009,Lagos,Uninsured
+1243,Chioma,Eze,Female,9/9/2000,Benin City,Uninsured
+1244,Emeka,Aliyu,Male,8/1/1989,Lagos,Insured
+1245,Daniel,Okechukwu,Male,6/6/1966,Abuja,Uninsured
+1246,Ifeanyi,Mohammed,Female,7/2/1975,Abuja,Insured
+1247,Fatima,Okechukwu,Male,10/16/1953,Lagos,Insured
+1248,Zainab,Ogunleye,Female,8/29/1972,Abuja,Insured
+1249,Zainab,Ekanem,Male,6/27/2013,Benin City,Uninsured
+1250,Tunde,Okechukwu,Female,6/25/1976,Benin City,Insured
