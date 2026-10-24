@@ -34,14 +34,16 @@ The script consolidates the full project workflow demonstrated in the accompanyi
 
 ## Dataset
 
-The project contains four synthetic healthcare datasets:
+This project uses four fully synthetic healthcare datasets created solely for portfolio and educational purposes:
 
-- Patients
-- Healthcare facilities
-- Patient visits
-- Disease cases
+- [Patients](data/patients.csv)
+- [Healthcare Facilities](data/facilities.csv)
+- [Patient Visits](data/visits.csv)
+- [Disease Cases](data/disease_cases.csv)
 
-The raw datasets were preserved separately from the cleaned tables to maintain data traceability.
+The uploaded CSV files represent the original raw source data used in the project. The raw datasets were preserved unchanged, while separate cleaned tables were created in MySQL for analysis and validation.
+
+No real patient, healthcare facility, employee, or confidential organisational data is included.
 
 ## Project Workflow
 
