@@ -117,6 +117,12 @@ Reviews the four source datasets, confirms successful import into MySQL, and val
 
 [Watch Import & Initial Validation](https://youtu.be/oAUjpt-X0MQ)
 
+### 2. Missing Values Assessment
+
+Performs a systematic missing-data review across all raw tables, including checks for both SQL `NULL` values and blank text fields. The analysis identifies 18 missing satisfaction scores and 7 missing insurance-status values, inspects the affected records, and preserves genuinely unknown values rather than making unsupported assumptions.
+
+[Watch Missing Values Assessment](https://youtu.be/jiOJeOao-rM)
+
 ## Project Status
 
 **Completed — SQL data cleaning, database validation, and healthcare analysis.**
