@@ -65,6 +65,32 @@ Compare insured and uninsured patients to identify differences in healthcare uti
 - Emergency-service use was almost identical between insured and uninsured patients.
 - Differences in waiting time and satisfaction between insurance groups were relatively small.
 
+## Analysis Results
+
+### Final Clean Dataset Validation
+
+The cleaned relational dataset contains 250 patients, 6 healthcare facilities, 220 disease-case records, and 720 unique patient visits.
+
+![Final Clean Dataset Validation](screenshots/01-final-clean-dataset-validation.png)
+
+### Facility Demand and Performance
+
+Vitalink Central Hospital recorded the highest patient volume with 183 visits. Facility volume did not consistently correspond to longer waiting times or lower patient satisfaction.
+
+![Facility Demand and Performance](screenshots/02-facility-demand-and-performance.png)
+
+### Disease Severity Analysis
+
+Hypertension recorded the highest proportion of severe cases at 18.4%, while malaria had the highest absolute number of severe cases.
+
+![Disease Severity Analysis](screenshots/03-disease-severity-analysis.png)
+
+### Insurance Status and Service Experience
+
+Insured and uninsured patients showed relatively small differences in average waiting time and satisfaction, with no strong evidence of a major service-access gap based on insurance status alone.
+
+![Insurance Service Experience](screenshots/04-insurance-service-experience.png)
+
 ## Portfolio Walkthrough
 
 Detailed video walkthroughs covering the complete SQL workflow will be added to this repository, including data cleaning, validation, database design, and business analysis.
