@@ -24,6 +24,14 @@ The video summarises the full workflow, including data validation, cleaning, dat
 - OBS Studio
 - Canva
 
+## SQL Script
+
+The complete SQL workflow is available in the repository:
+
+[View the full healthcare SQL analysis script](sql/healthcare_sql_analysis.sql)
+
+The script consolidates the full project workflow demonstrated in the accompanying video walkthroughs, from initial validation and data cleaning through database design and business analysis.
+
 ## Dataset
 
 The project contains four synthetic healthcare datasets:
