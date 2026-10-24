@@ -135,6 +135,12 @@ Reviews categorical fields, numeric ranges, and date values across the raw healt
 
 [Watch Invalid & Inconsistent Values Review](https://youtu.be/A5CnAd_XIzo)
 
+### 5. Referential Integrity Checks
+
+Validates the relationships between visits, disease cases, patients, and facilities using `LEFT JOIN` checks for unmatched foreign-key values. The analysis confirms that every visit and disease case references an existing patient and facility, with zero unmatched records identified.
+
+[Watch Referential Integrity Checks](https://youtu.be/BrSHGkK3oO8)
+
 ## Project Status
 
 **Completed — SQL data cleaning, database validation, and healthcare analysis.**
