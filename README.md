@@ -87,6 +87,8 @@ Vitalink Central Hospital recorded the highest patient volume with 183 visits. F
 
 ![Facility Demand and Performance](screenshots/02-facility-demand-and-performance.png)
 
+[Watch the full Facility Demand & Performance analysis](https://youtu.be/fQJrS_FY4Cc)
+
 ### Disease Severity Analysis
 
 Hypertension recorded the highest proportion of severe cases at 18.4%, while malaria had the highest absolute number of severe cases.
