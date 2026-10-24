@@ -123,6 +123,12 @@ Performs a systematic missing-data review across all raw tables, including check
 
 [Watch Missing Values Assessment](https://youtu.be/jiOJeOao-rM)
 
+### 3. Duplicate Record Assessment
+
+Checks each raw table for duplicate identifiers by comparing total rows with distinct primary IDs. The analysis identifies four duplicated visit IDs, inspects the repeated records to confirm they are exact duplicates, and verifies that the patient, facility, and disease-case tables contain unique primary identifiers.
+
+[Watch Duplicate Record Assessment](https://youtu.be/zkUddOscjHM)
+
 ## Project Status
 
 **Completed — SQL data cleaning, database validation, and healthcare analysis.**
