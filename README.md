@@ -107,7 +107,15 @@ Insured and uninsured patients showed relatively small differences in average wa
 
 ## Portfolio Walkthrough
 
-Detailed video walkthroughs covering the complete SQL workflow will be added to this repository, including data cleaning, validation, database design, and business analysis.
+## Technical Walkthrough
+
+For a detailed step-by-step view of the SQL workflow, the technical videos below show how the dataset was validated, cleaned, structured, and prepared for analysis.
+
+### 1. Import & Initial Validation
+
+Reviews the four source datasets, confirms successful import into MySQL, and validates row counts before beginning data cleaning.
+
+[Watch Import & Initial Validation](https://youtu.be/oAUjpt-X0MQ)
 
 ## Project Status
 
