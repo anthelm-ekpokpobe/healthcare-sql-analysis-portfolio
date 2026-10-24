@@ -147,6 +147,12 @@ Builds structured clean tables for visits, patients, facilities, and disease cas
 
 [Watch Clean Table Creation & Transformation](https://youtu.be/kPoI0WnIfFg)
 
+### 7. Foreign Key Constraints & Validation
+
+Adds foreign-key constraints to the cleaned visits and disease-case tables so patient and facility references are enforced at the database level. The walkthrough then queries MySQL metadata to confirm that the expected patient and facility relationships were successfully created.
+
+[Watch Foreign Key Constraints & Validation](https://youtu.be/-nWzyFk0NAI)
+
 ## Project Status
 
 **Completed — SQL data cleaning, database validation, and healthcare analysis.**
