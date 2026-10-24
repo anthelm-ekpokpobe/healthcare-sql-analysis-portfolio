@@ -129,6 +129,12 @@ Checks each raw table for duplicate identifiers by comparing total rows with dis
 
 [Watch Duplicate Record Assessment](https://youtu.be/zkUddOscjHM)
 
+### 4. Invalid & Inconsistent Values Review
+
+Reviews categorical fields, numeric ranges, and date values across the raw healthcare tables to identify inconsistent or potentially invalid records. The analysis detects a trailing-space inconsistency in the `Emergency` visit type, investigates unusually high waiting times rather than automatically treating them as errors, validates satisfaction-score ranges, and confirms that the remaining patient, facility, and disease-case categories are consistent.
+
+[Watch Invalid & Inconsistent Values Review](https://youtu.be/A5CnAd_XIzo)
+
 ## Project Status
 
 **Completed — SQL data cleaning, database validation, and healthcare analysis.**
